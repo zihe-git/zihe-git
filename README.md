@@ -8,4 +8,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zihe-git&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-around;">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihe-git&layout=compact&theme=radical" alt="Most Used Languages" style="width: 45%;height: 300px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zihe-git&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;height: 310px" />
+</div>
+
+
