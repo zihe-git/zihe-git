@@ -1,13 +1,12 @@
 <!-- this is first commit ----- add a commit -->
 <!-- this is second commit ------ add a commit -->
-<!-- anythongs -->
-
 <!---
 zihe-git/zihe-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- 这是添加的额 -->
 <div align="center" >
- <h1> Hi👋 Hi👋 Hi👋 </h1>
+ <h1> Hi👋 Hi👋  </h1>
 </div>
 
 
